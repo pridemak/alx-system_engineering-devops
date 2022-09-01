@@ -7,3 +7,4 @@ ls -lna display CD contents in long format, with user and groupIDs displayed num
 mkdir /tmp/my_first_directory/ creating new directory
 mv to move required files
 rm to delete the files
+rm -rf to delete a directory
