@@ -14,3 +14,4 @@ file /tmp/iamfile to print the file in tmp directory
 ln -s /bin/ls __ls__ to Create a symbolic link to /bin/ls, named __ls__ in the current working directory
 
 
+cp -nu *.html .. Create a script that copies all the HTML files from the current working directory to the parent of the working directory etc
