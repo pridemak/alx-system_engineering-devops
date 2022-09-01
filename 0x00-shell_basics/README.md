@@ -11,3 +11,4 @@ rm -rf to delete a directory
 cd - changes the working directory to the previous one
 la -al . .. /boot is a command that lists all files, hidden or even the one that begin with a period
 file /tmp/iamfile to print the file in tmp directory
+ln -s /bin/ls_/s_ to Create a symbolic link to /bin/ls, named __ls__ in the current working directory
