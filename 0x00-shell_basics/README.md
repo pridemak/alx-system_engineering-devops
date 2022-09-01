@@ -8,3 +8,4 @@ mkdir /tmp/my_first_directory/ creating new directory
 mv to move required files
 rm to delete the files
 rm -rf to delete a directory
+cd - changes the working directory to the previous one
