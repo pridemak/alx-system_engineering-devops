@@ -13,3 +13,4 @@ a script that counts the number of directories and sub-directories in the curren
 a script that takes a list of words as input and prints only words that appear exactly once
 Display lines containing the pattern root from file
 Display the number of lines that contain the pattern bin in file
+displaying the pattern root and 3 lines after them in the file
