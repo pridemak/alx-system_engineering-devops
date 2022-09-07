@@ -22,3 +22,4 @@ a script that reverse its input
 a script that displays all users and their home directories, sorted by users
 emoty casks
 about gifs
+a script that decodes acrostics that use the first letter of each line
