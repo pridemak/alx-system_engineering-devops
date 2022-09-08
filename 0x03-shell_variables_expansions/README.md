@@ -13,3 +13,4 @@ echo $((BREATH**LOVE))
 10-love_exponent_breath two to base ten
 a script that prints all possible combinations of two letters except oo
 a script that prints a number with two decimal places
+a script that converts a number from base ten to base sixteen
