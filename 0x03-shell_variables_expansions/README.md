@@ -12,3 +12,4 @@ a script that prints the result of POWER divided by DIVIDE
 echo $((BREATH**LOVE))
 10-love_exponent_breath two to base ten
 a script that prints all possible combinations of two letters except oo
+a script that prints a number with two decimal places
