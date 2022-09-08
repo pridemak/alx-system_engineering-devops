@@ -15,3 +15,4 @@ a script that prints all possible combinations of two letters except oo
 a script that prints a number with two decimal places
 a script that converts a number from base ten to base sixteen
 a script that encodes and decodes text using the rot13 encryptionassume ASCII
+a script that prints every other line from the input starting with the first line
