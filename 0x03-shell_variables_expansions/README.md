@@ -8,3 +8,5 @@ a script that creates a new local variable
 a script that creates a new global variable
 a script that prints the result of the addition of values
 a script that prints the result of POWER divided by DIVIDE
+#!/bin/bash
+echo $((BREATH**LOVE))
